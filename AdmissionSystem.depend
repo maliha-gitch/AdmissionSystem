@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1782588996 source:c:\users\dell\downloads\projectofc++\admissionsystem\main.cpp
+	<iostream>
+	"include/Menu.h"
+
+1782588978 c:\users\dell\downloads\projectofc++\admissionsystem\include\menu.h
+	<iostream>
+	<string>
+	"Student.h"
+	"Teacher.h"
+	"Admin.h"
+	"Assignment.h"
+
+1782928952 c:\users\dell\downloads\projectofc++\admissionsystem\include\student.h
+	<iostream>
+	<string>
+	<vector>
+	"Person.h"
+	"CSVManager.h"
+
+1782559850 c:\users\dell\downloads\projectofc++\admissionsystem\include\person.h
+	<iostream>
+	<string>
+
+1782560600 c:\users\dell\downloads\projectofc++\admissionsystem\include\csvmanager.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+
+1782928958 c:\users\dell\downloads\projectofc++\admissionsystem\include\teacher.h
+	<iostream>
+	<string>
+	<vector>
+	"Person.h"
+	"CSVManager.h"
+
+1782928649 c:\users\dell\downloads\projectofc++\admissionsystem\include\admin.h
+	<iostream>
+	<string>
+	<vector>
+	"Person.h"
+	"Student.h"
+	"Teacher.h"
+	"Assignment.h"
+	"CSVManager.h"
+
+1782928643 c:\users\dell\downloads\projectofc++\admissionsystem\include\assignment.h
+	<iostream>
+	<vector>
+	"CSVManager.h"
+
+1782929527 source:c:\users\dell\downloads\projectofc++\admissionsystem\src\admin.cpp
+	"../include/Admin.h"
+	"../include/Student.h"
+	"../include/Teacher.h"
+	"../include/Assignment.h"
+	<iomanip>
+
+1782928646 source:c:\users\dell\downloads\projectofc++\admissionsystem\src\assignment.cpp
+	"../include/Assignment.h"
+	<iomanip>
+	<sstream>
+
+1782560781 source:c:\users\dell\downloads\projectofc++\admissionsystem\src\csvmanager.cpp
+	"../include/CSVManager.h"
+	<sstream>
+	<cstdio>
+
+1782928760 source:c:\users\dell\downloads\projectofc++\admissionsystem\src\menu.cpp
+	"../include/Menu.h"
+	<cstdlib>
+
+1782559848 source:c:\users\dell\downloads\projectofc++\admissionsystem\src\person.cpp
+	"../include/Person.h"
+
+1782929106 source:c:\users\dell\downloads\projectofc++\admissionsystem\src\student.cpp
+	"../include/Student.h"
+	"../include/Assignment.h"
+	<iomanip>
+	<sstream>
+
+1782929151 source:c:\users\dell\downloads\projectofc++\admissionsystem\src\teacher.cpp
+	"../include/Teacher.h"
+	"../include/Assignment.h"
+	<iomanip>
+	<sstream>
+

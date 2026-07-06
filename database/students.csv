@@ -1,0 +1,2 @@
+StudentID,Password,StudentName,FatherName,MotherName,DateOfBirth,Gender,BloodGroup,Religion,Nationality,Phone,GuardianPhone,Email,PresentAddress,PermanentAddress,SSCRoll,SSCRegistration,SSCGPA,HSCRoll,HSCRegistration,HSCGPA,Department,Group,AdmissionStatus
+STU-2026-0001,maliha678,maliha,akbar,mahafuza,2/3/2004,female,b_,islam,bd,019391741,1419471947,maliha@gmail.com,k-block,chaakria,16491741,4234692,5,621984612,48264912,5,Science,chemistry,Approved
